@@ -1,6 +1,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 **[View Project on Netlify](https://hometownbasic.netlify.app/)**
+
+---
+
+
 # hometown-basic
 
 A simple and charming **Hometown Webpage** that gives a quick introduction to who you are and where you come from—a digital shoutout to your roots!
