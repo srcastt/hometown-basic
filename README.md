@@ -1,7 +1,7 @@
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demoo
 
 👉 **[View Project on Netlify](https://hometownbasic.netlify.app/)**
 
